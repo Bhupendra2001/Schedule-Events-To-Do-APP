@@ -210,7 +210,7 @@ const WeeklyCalendars = () => {
   return (
     <Container>
       <Wrapper>
-        <Title>AWESOME DO DO APP</Title>
+        <Title>AWESOME TO DO APP</Title>
         <ChangeWeek>
           <Button onClick={goToPrevWeek}>Prev Week</Button>
           <Button onClick={goToNextWeek}>Next Week</Button>
